@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Pyroro&#39;s Site</title>
+        <link>https://Pyroro.github.io/categories/</link>
+        <description>Categories - Category - Pyroro&#39;s Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 08 Nov 2022 18:48:22 &#43;0800</lastBuildDate><atom:link href="https://Pyroro.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Apex_Legends</title>
+    <link>https://Pyroro.github.io/categories/apex_legends/</link>
+    <pubDate>Tue, 08 Nov 2022 18:48:22 &#43;0800</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://Pyroro.github.io/categories/apex_legends/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Pyroro&#39;s games</title>
+    <link>https://Pyroro.github.io/categories/pyroros-games/</link>
+    <pubDate>Tue, 08 Nov 2022 01:43:27 &#43;0800</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://Pyroro.github.io/categories/pyroros-games/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

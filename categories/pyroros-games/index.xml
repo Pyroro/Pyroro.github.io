@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pyroro&#39;s games - Category - Pyroro&#39;s Site</title>
+        <link>https://Pyroro.github.io/categories/pyroros-games/</link>
+        <description>Pyroro&#39;s games - Category - Pyroro&#39;s Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 08 Nov 2022 01:43:27 &#43;0800</lastBuildDate><atom:link href="https://Pyroro.github.io/categories/pyroros-games/" rel="self" type="application/rss+xml" /><item>
+    <title>【自制游戏】Rescue the princess</title>
+    <link>https://Pyroro.github.io/posts/pyroros_games/rtp/</link>
+    <pubDate>Tue, 08 Nov 2022 01:43:27 &#43;0800</pubDate><author>
+                    <name>Pyroro</name>
+                </author><guid>https://Pyroro.github.io/posts/pyroros_games/rtp/</guid>
+    <description><![CDATA[Pyroro独立开发的一款轻量级简单PC游戏]]></description>
+</item></channel>
+</rss>

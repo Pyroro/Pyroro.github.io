@@ -1,28 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Pyroro&#39;s Site</title>
-        <link>https://Pyroro.github.io/posts/</link>
+        <link>http://example.org/posts/</link>
         <description>All Posts | Pyroro&#39;s Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 08 Nov 2022 18:48:22 &#43;0800</lastBuildDate><atom:link href="https://Pyroro.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>【APEX】钻石守门员进入120俱乐部!</title>
-    <link>https://Pyroro.github.io/posts/apex_legends/bili002/</link>
-    <pubDate>Tue, 08 Nov 2022 18:48:22 &#43;0800</pubDate><author>
-                    <name>Pyroro</name>
-                </author><guid>https://Pyroro.github.io/posts/apex_legends/bili002/</guid>
-    <description><![CDATA[Pyroro的第二个b站视频]]></description>
-</item><item>
-    <title>【APEX】当你在子弹时间中掏出熟练度为0的瓦基</title>
-    <link>https://Pyroro.github.io/posts/apex_legends/bili001/</link>
-    <pubDate>Tue, 08 Nov 2022 18:30:35 &#43;0800</pubDate><author>
-                    <name>Pyroro</name>
-                </author><guid>https://Pyroro.github.io/posts/apex_legends/bili001/</guid>
-    <description><![CDATA[Pyroro的第一个b站视频，新人up，欢迎支持]]></description>
-</item><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 08 Nov 2022 01:43:27 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
     <title>【自制游戏】Rescue the princess</title>
-    <link>https://Pyroro.github.io/posts/pyroros_games/rtp/</link>
+    <link>http://example.org/posts/pyroros_games/rtp/</link>
     <pubDate>Tue, 08 Nov 2022 01:43:27 &#43;0800</pubDate><author>
                     <name>Pyroro</name>
-                </author><guid>https://Pyroro.github.io/posts/pyroros_games/rtp/</guid>
+                </author><guid>http://example.org/posts/pyroros_games/rtp/</guid>
     <description><![CDATA[Pyroro独立开发的一款轻量级简单PC游戏]]></description>
 </item></channel>
 </rss>
